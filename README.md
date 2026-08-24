@@ -95,14 +95,16 @@ A full-stack rental management platform designed to simplify property, tenant, r
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyalprince2005&show_icons=true&theme=tokyonight&hide_border=true" alt="Prince's GitHub Stats" />
-</p>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalprince2005&layout=compact&theme=tokyonight&hide_border=true" alt="Prince's Top Languages" />
-</p>
+💻 Actively building projects and improving my development skills.
+
+🧠 Practicing Data Structures & Algorithms with C++
+
+🚀 Currently developing my Rental Management System
+
+📚 Continuously learning AI/ML, Full-Stack Development and Generative AI
 
   
