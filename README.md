@@ -71,4 +71,25 @@ Problem Solving
    ↓
 Interview Preparation
 
+---
+
+## 🚀 Featured Project
+
+### 🏠 Rental Management System
+
+**MERN Stack | React.js | Tailwind CSS | Node.js | Express.js | MongoDB**
+
+A full-stack rental management platform designed to simplify property, tenant, room and rental management through a modern web interface.
+
+### ✨ Current Features
+
+- 🏢 Property & room management
+- 👥 Tenant management
+- 💰 Rental/payment management
+- 📊 Dashboard and overview
+- 📱 Responsive user interface
+- 🔐 Authentication and user management
+
+🔗 **[View Project on GitHub](https://github.com/goyalprince2005/Rental-Management-System)**
+
   
