@@ -82,18 +82,14 @@ Interview Preparation
 
 A full-stack rental management platform designed to simplify property, tenant, room and rental management through a modern web interface.
 
-### ✨ Current Features
+### 📌 Project Status
 
-- 🏢 Property & room management
-- 👥 Tenant management
-- 💰 Rental/payment management
-- 📊 Dashboard and overview
-- 📱 Responsive user interface
-- 🔐 Authentication and user management
+🚧 **Currently under active development**
+
+Building a modern rental management platform with a focus on clean UI, intuitive navigation and scalable full-stack architecture.
 
 🔗 **[View Project on GitHub](https://github.com/goyalprince2005/Rental-Management-System)**
 
----
 
 ---
 
