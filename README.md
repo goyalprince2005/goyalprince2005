@@ -71,6 +71,7 @@ Problem Solving
    ↓
 Interview Preparation
 
+```
 ---
 
 ## 🚀 Featured Project
