@@ -93,4 +93,16 @@ A full-stack rental management platform designed to simplify property, tenant, r
 
 🔗 **[View Project on GitHub](https://github.com/goyalprince2005/Rental-Management-System)**
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goyalprince2005&show_icons=true&theme=tokyonight&hide_border=true" alt="Prince's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalprince2005&layout=compact&theme=tokyonight&hide_border=true" alt="Prince's Top Languages" />
+</p>
+
   
