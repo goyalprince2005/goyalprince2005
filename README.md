@@ -1,120 +1,162 @@
-## 👋 Hi, I'm Prince Goyal
 
-🎓 B.Tech Computer Science & Engineering | AI & Machine Learning  
-💻 Full-Stack Developer | AI/ML Enthusiast  
-🧠 Problem Solver | C++ & DSA  
-🚀 Building practical projects using MERN, Python & SQL  
+<!-- ==================== HEADER ==================== -->
+
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=7DD3FC&amp;height=200&amp;section=header&amp;text=Prince%20Goyal&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=CSE%20Student&amp;descAlignY=55&amp;descSize=20"
+    alt="Prince Goyal profile banner"
+    width="100%"
+  />
+</p>
+
+
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I%27m+Prince+Goyal;CSE+Student+%7C+AI%2FML+Enthusiast;Full-Stack+Developer;Learning+and+Building+Every+Day"
+    alt="Typing animation"
+  />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=goyalprince2005&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/goyalprince2005?label=Followers&style=flat&color=7dd3fc" alt="GitHub Followers" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Who I Am
 
-- 🔭 Currently building a **Rental Management System** using the MERN stack
-- 🌱 Currently learning **Generative AI, Backend Development & Advanced DSA**
-- 💻 Practicing **Data Structures & Algorithms in C++**
-- 🤖 Interested in **AI/ML, Generative AI & Full-Stack Development**
-- 📊 Experienced in working with **Python, SQL and Data Analysis**
-- 🎯 Preparing for **Software Engineering & AI/ML opportunities**
-- 📚 Always learning, building and improving
+```javascript
+const prince = {
+  title: "B.Tech CSE Student — AI & ML",
+
+  languages: ["C++", "Python", "JavaScript", "SQL"],
+
+  frontend: ["HTML", "CSS", "React", "Tailwind CSS"],
+
+  backend: ["Node.js", "Express.js", "MongoDB"],
+
+  interests: [
+    "Full-Stack Development",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Structures & Algorithms"
+  ],
+
+  projects: [
+    "Rental Management System",
+    "Face Attendance & Recognition System"
+  ],
+
+  status: "Learning, building and improving",
+
+  openTo: [
+    "Hackathons",
+    "Open Source",
+    "Collaborative Projects"
+  ]
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages**
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" alt="C++, Python and JavaScript" />
+</p>
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI/ML & Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React and Tailwind CSS" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Node.js, Express, MongoDB and PostgreSQL" />
+</p>
+
+**AI/ML & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,git,github,vscode&perline=6" alt="NumPy, Pandas, Matplotlib, Git, GitHub and VS Code" />
+</p>
 
 ---
 
-## 🧠 DSA & Problem Solving
-
-- 💻 Solving Data Structures & Algorithms problems using **C++**
-- 📚 Following **NeetCode 150** and **Striver A2Z DSA Sheet**
-- 🧩 Practicing problems on **LeetCode, GeeksforGeeks & CodeChef**
-- 🔍 Focusing on problem-solving, optimization and writing clean solutions
-- ⏱️ Regularly practicing topics including **Arrays, Hashing, Binary Search, Linked Lists, Trees, Graphs & Dynamic Programming**
-
-### 📈 Current Focus
-
-```text
-C++ & STL
-   ↓
-Data Structures & Algorithms
-   ↓
-Problem Solving
-   ↓
-Interview Preparation
-
-```
----
-
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🏠 Rental Management System
 
-**MERN Stack | React.js | Tailwind CSS | Node.js | Express.js | MongoDB**
+A MERN-stack application designed to manage rental properties, tenants, rooms and rental operations.
 
-A full-stack rental management platform designed to simplify property, tenant, room and rental management through a modern web interface.
+**Technologies:** React, Tailwind CSS, JavaScript, Node.js, Express.js and MongoDB.
 
-### 📌 Project Status
+**Status:** Under active development.
 
-🚧 **Currently under active development**
+[![Rental Management System](https://img.shields.io/badge/Project-Rental%20Management%20System-7DD3FC?style=for-the-badge&logo=github&logoColor=black)](https://github.com/goyalprince2005/Rental-Management-System)
 
-Building a modern rental management platform with a focus on clean UI, intuitive navigation and scalable full-stack architecture.
+### 👤 Face Attendance & Recognition System
 
-🔗 **[View Project on GitHub](https://github.com/goyalprince2005/Rental-Management-System)**
+A command-line computer vision application for face recognition and attendance tracking, with SQLite records and CSV report exports.
+
+**Technologies:** Python, OpenCV, LBPH and SQLite.
+
+[![Face Attendance Project](https://img.shields.io/badge/Project-Face%20Attendance-7DD3FC?style=for-the-badge&logo=github&logoColor=black)](https://github.com/goyalprince2005/face-attendance-recognition-system)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=goyalprince2005&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&hide_border=false" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalprince2005&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&hide_border=false" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=goyalprince2005&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
+</p>
+
+---
+
+
+### 🏆 Trophies
+
+Check out my GitHub repositories and contributions
+to explore my development journey.
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+![GitHub Contributions](https://ghchart.rshah.org/7dd3fc/goyalprince2005)
 
 
 ---
 
-## 📊 GitHub Activity
-
-💻 Actively building projects and improving my development skills.
-
-🧠 Practicing Data Structures & Algorithms with C++
-
-🚀 Currently developing my Rental Management System
-
-📚 Continuously learning AI/ML, Full-Stack Development and Generative AI
-
----
-
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prince-goyal-b81a42314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/prince-goyal-b81a42314/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/goyalprince2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/goyalprince2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-  
+---
+
+<p align="center">
+  <i>Learning, building and improving — one commit at a time! 🚀</i>
+</p>
