@@ -20,10 +20,19 @@
 </p>
 
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goyalprince2005&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/goyalprince2005?label=Followers&style=flat&color=7dd3fc" alt="GitHub Followers" />
+  <img
+    src="https://komarev.com/ghpvc/?username=goyalprince2005&amp;label=Profile%20Views&amp;color=7dd3fc&amp;style=flat"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/goyalprince2005?label=Followers&amp;style=flat&amp;color=7dd3fc"
+    alt="Followers"
+  />
 </p>
+
+
 
 ---
 
@@ -85,11 +94,19 @@ const prince = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Node.js, Express, MongoDB and PostgreSQL" />
 </p>
 
+
+
+
+
 **AI/ML & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,git,github,vscode&perline=6" alt="NumPy, Pandas, Matplotlib, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
 </p>
+
+<br clear="all" />
+
+
 
 ---
 
